@@ -8,6 +8,7 @@ public class Calculator {
         char operator;
         
         System.out.print("Enter the first number: ");
+        System.out.print("First number should be entered: ");
         System.out.print("Enter the 1st number: ");
         num1 = input.nextDouble();
         
