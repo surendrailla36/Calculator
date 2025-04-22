@@ -7,10 +7,10 @@ public class Calculator {
         double num1, num2, result;
         char operator;
         
-        System.out.print("Enter the 1st number: ");
+        System.out.print("Enter the first number: ");
         num1 = input.nextDouble();
         
-        System.out.print("Enter the 2nd number: ");
+        System.out.print("Enter the second number: ");
         num2 = input.nextDouble();
         
         System.out.print("Enter an operator (+, -, *, /): ");
