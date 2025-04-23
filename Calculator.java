@@ -15,7 +15,7 @@ public class Calculator {
         
         System.out.print("Enter an operator (+, -, *, /): ");
         operator = input.next().charAt(0);
-        
+        input.close();
         switch (operator) {
             case '+':
                 result = number1 + number2;
