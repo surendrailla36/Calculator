@@ -31,7 +31,7 @@ public class Calculator {
                 break;
             case '/':
                 if (number2 == 0) {
-                    System.out.println("Error: Division by zero");
+                    System.out.println("Error:  by zero");
                 } 
                 else {
                     result = number1 / number2;
